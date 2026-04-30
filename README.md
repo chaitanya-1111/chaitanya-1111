@@ -1,4 +1,4 @@
-# 👋 Hi, I’m Chaitanya!
+# 👋 Hi, I’m Chaitanya sonvane!
 
 🎓 **Robotics & Automation Engineer | 3rd Year Student**  
 🔭 Passionate about Embedded Systems, PCB Design, and Python  
